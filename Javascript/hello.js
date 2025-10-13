@@ -1,13 +1,13 @@
 console.log("hey!");
 
 const pi = 3.1415;
-let name = "Rubi Roy";
+let namee = "Rubi Roy";
 var sex = "Male";
 rollNo = 2035;
 let dob;
 
 console.log(pi);
-console.table([pi,name,sex,rollNo,dob]);
+console.table([pi,namee,sex,rollNo,dob]);
 
 let isLoggedIn = false
 let roll = 2202
