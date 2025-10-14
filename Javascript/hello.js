@@ -22,6 +22,10 @@ let percentile = 91.16
  *  undefined
  *  symbol -> unique
  *  object
+ *  array
+ *  function
+ *  symbol
+ *  
  */
 
 console.log(typeof null)  // object
